@@ -130,7 +130,7 @@
         amount: -100 # power nap
         immediate: true
       - !type:AdjustReagent
-        reagent: Mitogen
+        reagent: Mitotrophin # was using mitogen, a chem that does effectively nothing.
         amount: 0.125 # 1.25 per 5u
 
 - type: reagent
